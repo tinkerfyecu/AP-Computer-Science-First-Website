@@ -1,0 +1,109 @@
+body{
+    background-color: black;
+}
+#div1{
+    background-color: coral;
+    width: 200px;
+    margin: auto;
+    padding: 10px 5px 10px 5px;
+    text-align: center;
+    border: 3px solid red;
+    border-radius: 8px 20px 0 5px;
+}
+p{
+    border: 2px groove blue;
+    border-radius: 15px;
+    background-color: orange;
+    padding: 10px;
+    margin: 10px;
+}
+#email{
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 2px solid red;
+    background: lightsalmon;
+    padding: 2px;
+    margin-bottom: 5px;
+}
+/* For pwd do your own design*/
+#pwd{
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 2px solid red;
+    background: lightsalmon;
+    padding: 2px;
+    margin-bottom: 5px; 
+}
+
+#email:hover{
+    background-color: bisque;
+    border-bottom: 2px solid blue;;
+}
+#pwd:hover{
+    background-color: aquamarine;
+    border-bottom: 2px solid blue;
+}
+#btn{
+    border: 2px outset green;
+    border-radius: 10px;
+    padding: 5px 15px;
+    background-color: limegreen;
+}
+#btn:hover{
+    border: 2px inset green;
+    background-color: antiquewhite;
+}
+
+#div2 {
+    box-sizing: border-box;
+    width: 300px;
+    max-width: 100%;
+    margin: 24px auto;
+    padding: 24px 20px;
+    text-align: center;
+    background-color: #272044;
+    border: 3px solid #a78bfa;
+    border-radius: 28px;
+}
+
+#div2:hover {
+    background-color: #362954;
+    border-color: #d8b4fe;
+}
+
+#div2 .input {
+    box-sizing: border-box;
+    width: 100%;
+    margin-bottom: 12px;
+    padding: 10px 14px;
+    font: inherit;
+    color: #272044;
+    background-color: #f3edff;
+    border: 2px solid #b8a5eb;
+    border-radius: 16px;
+}
+
+#div2 .input:hover,
+#div2 .input:focus {
+    background-color: #ffffff;
+    border-color: #7951c1;
+}
+
+#div2 #btn2 {
+    margin-top: 4px;
+    padding: 8px 28px;
+    font: inherit;
+    font-weight: bold;
+    color: #103632;
+    background-color: #82e2cf;
+    border: 2px outset #52b8a7;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+#div2 #btn2:hover {
+    background-color: #b4f6e8;
+    border-style: inset;
+}

@@ -1,0 +1,56 @@
+h1{
+    color: green;
+    font-size: 60px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2{
+    color: blue;
+    font-size: 30px;
+    font-style: italic;
+    font-family:'Courier New', Courier, monospace;
+}
+
+li{
+    color: red;
+}
+
+#second{
+    color: purple;
+    font-style: bold;
+}
+
+.group{
+    color: black;
+    font-style: italic;
+}
+
+body{
+    background-color: aqua;
+}
+
+#form1{
+    background: blue;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+/* padding line  it goes clockwise
+1st value is top, second is right, third is bottom and fourth is left
+*/
+.inputs{
+    padding: 6px 10px;
+    width: 90%;
+    margin: 10px;
+    background-color: aqua;
+}
+.formsend{
+    padding: 6px 10px;
+    width: 50%;
+    margin: 20px;
+    background-color: green;
+}

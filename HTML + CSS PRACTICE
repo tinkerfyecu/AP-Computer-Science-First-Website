@@ -1,0 +1,15 @@
+Build a webpage with the following details:
+The topic of your choosing, however, it must have three subtopics
+
+- H1 (TITLE)
+- 3 H2 (subtitle)
+- Unordered list (ul)
+- Many paragraphs
+- 2 images
+
+With CSS
+- Background color
+- Different text colors (that make sense)
+- Use at least one class and one id
+- Some of the text must be centered, the rest can be default
+- Format your webpage using text sizes, styles (bold, italic)
