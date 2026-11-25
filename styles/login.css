@@ -107,3 +107,27 @@ p{
     background-color: #b4f6e8;
     border-style: inset;
 }
+
+
+#div2.signup,
+#div2 .signup-link {
+    color: #f3edff;
+}
+
+.signup h1 {
+    margin: 0 0 16px;
+}
+
+.signup label {
+    display: block;
+    margin-bottom: 4px;
+    text-align: left;
+}
+
+.signup-link {
+    margin-top: 16px;
+}
+
+.signup-link a {
+    color: #b4f6e8;
+}
